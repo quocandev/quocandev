@@ -38,18 +38,19 @@
 
 ---
 
-<div align="center">
-  <i>⭐️ From [yourusername](https://github.com/yourusername)</i>
-</div>
+<h3 align="center" > <img src="https://tenor.com/vi/view/kurama-sad130x130-gif-24086987" width="200"  style="margin-right: 10px;"></h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<div align="center">
+<p align="center">
 
-![profile](https://tenor.com/vi/view/kurama-sad130x130-gif-24086987)
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/thuy-trang-nguyen-k67hus/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/aya1101">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ayakaka.1101/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
 
-### Connect with me 🤝
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/quoc-an1601/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/quocandev)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram)](https://www.instagram.com/dq_an16/)
-
-</div>
+</p>
+<h3 align = "center"> (☞ﾟヮﾟ)☞ よろしくお願いします！ ☜(ﾟヮﾟ☜)</h3>
