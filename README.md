@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm currently learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, programming, or tech in general**
+- 💬 Ask me about **data science, machine learning, or tech in general**
 - 📫 How to reach me: **doquocan_t67@hus.edu.vn**
 - ⚡ Fun fact: **I love coding and coffee ☕**
 
