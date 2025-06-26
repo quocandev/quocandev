@@ -1,9 +1,5 @@
 # Hi there, I'm An 👋
 
-<div align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist;Open+Source+Enthusiast;Always+Learning+New+Things+" alt="Typing SVG" />
-</div>
-
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## 🚀 About Me
