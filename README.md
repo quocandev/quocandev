@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="center" > <img src="https://pin.it/48A1bT8gC" width="200"  style="margin-right: 10px;"></h3>
+<h3 align="center" > <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RjZGFjanY0c3FpNzNzYTI1ZjBvcHZ3aTRpejVvcHp0azZqcWV5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z5uG5gGHQqZQmcdw4H/giphy.gif" width="200"  style="margin-right: 10px;"></h3>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
