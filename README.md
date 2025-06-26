@@ -19,26 +19,9 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode,docker" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
-  </a>
-</div>
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
-
 ---
 
-<h3 align="center" > <img src="https://tenor.com/vi/view/kurama-sad130x130-gif-24086987" width="200"  style="margin-right: 10px;"></h3>
+<h3 align="center" > <img src="https://media.tenor.com/3uGGYL4gMDkAAAPo/kurama-sad130x130.mp4" width="200"  style="margin-right: 10px;"></h3>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
