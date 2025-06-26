@@ -4,6 +4,8 @@
   <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist;Open+Source+Enthusiast;Always+Learning+New+Things+" alt="Typing SVG" />
 </div>
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **exciting projects**
@@ -21,7 +23,7 @@
 
 ---
 
-<h3 align="center" > <img src="https://media.tenor.com/3uGGYL4gMDkAAAPo/kurama-sad130x130.mp4" width="200"  style="margin-right: 10px;"></h3>
+<h3 align="center" > <img src="https://pin.it/48A1bT8gC" width="200"  style="margin-right: 10px;"></h3>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -36,4 +38,3 @@
       </div>
 
 </p>
-<h3 align = "center"> (☞ﾟヮﾟ)☞ よろしくお願いします！ ☜(ﾟヮﾟ☜)</h3>
